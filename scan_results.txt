@@ -1,0 +1,3 @@
+Scanning scanme.nmap.org at 2025-10-18 21:24:45
+Ports to scan: 1024 (first 20 shown): [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]...
+Open ports on scanme.nmap.org: [22, 80, 587]
